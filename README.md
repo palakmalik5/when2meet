@@ -23,8 +23,11 @@ Clone this repository (from the command line or using GitHub Desktop). If from t
 
 Then, run the following commands in the same directory where you cloned the repository:
 `npm install`. 
+
 `npm i react-schedule-selector styled-components`. 
-`npm start`
+
+`npm start`. 
+
 
 Then, in a browser, navigate to `localhost:3000`
 
