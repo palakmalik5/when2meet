@@ -22,11 +22,11 @@ Clone this repository (from the command line or using GitHub Desktop). If from t
 `git clone https://github.com/19katz/when2meet.git`
 
 Then, run the following commands in the same directory where you cloned the repository:
-`npm install`. 
+`npm install` 
 
-`npm i react-schedule-selector styled-components`. 
+`npm i react-schedule-selector styled-components` 
 
-`npm start`. 
+`npm start` 
 
 
 Then, in a browser, navigate to `localhost:3000`
