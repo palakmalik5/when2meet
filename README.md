@@ -19,9 +19,14 @@ These are the characteristics that make When2Meet different from other schedulin
 
 Clone this repository (from the command line or using GitHub Desktop). If from the command line, use the following command:
 
-`git clone https://github.com/19katz/when2maeet.git`
+`git clone https://github.com/19katz/when2meet.git`
 
-Once cloned locally, open up the to-do app by navigating to the cloned folder and clicking index.html. Alternatively, in a browser, navigate to `file:///<path-to-directory>/when2meet` and run `npm start` to start.
+Then, run the following commands in the same directory where you cloned the repository:
+`npm install`
+`npm i react-schedule-selector styled-components`
+`npm start`
+
+Then, in a browser, navigate to `localhost:3000`
 
 ## Citations
 
