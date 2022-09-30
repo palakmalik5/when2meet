@@ -17,7 +17,9 @@ These are the characteristics that make When2Meet different from other schedulin
 
 ## Usage
 
-Clone this repository (from the command line or using GitHub Desktop). If from the command line, use the following command:
+A deployed version of this repository can be accessed [here](https://when2meet-clone-279.herokuapp.com/).
+
+To run it yourself, clone this repository (from the command line or using GitHub Desktop). If from the command line, use the following command:
 
 `git clone https://github.com/19katz/when2meet.git`
 
@@ -28,8 +30,7 @@ Then, run the following commands in the same directory where you cloned the repo
 
 `npm start` 
 
-
-Then, in a browser, navigate to `localhost:3000`
+Then, in a browser, navigate to `localhost:3000`.
 
 ## Citations
 
